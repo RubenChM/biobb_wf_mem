@@ -1,0 +1,11 @@
+name: biobb_wf_mem
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python
+  - biobb_mem
+  - jupyter
+  - nglview
+  - pandas
+  - vmd
