@@ -3,9 +3,5 @@ channels:
   - conda-forge
   - bioconda
 dependencies:
-  - python
-  - biobb_mem
-  - jupyter
+  - biobb_mem=5.0.2=*_2
   - nglview
-  - pandas
-  - vmd
