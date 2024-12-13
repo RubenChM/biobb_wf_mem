@@ -5,4 +5,3 @@ channels:
 dependencies:
   - biobb_mem=5.0.3
   - nglview
-  # - vmd
